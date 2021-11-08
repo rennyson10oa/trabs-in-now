@@ -1,1 +1,1 @@
-este trabalho não foi corrigido, por isso som tem 3
+este trabalho não foi corrigido, por isso so tem 3
