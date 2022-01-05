@@ -1,0 +1,15 @@
+Links úteis:
+
+Download do BrModelo
+http://www.sis4.com/brModelo/brModelo.jar
+
+Download do SGBD (necessário somente um destes)
+
+MySQL
+https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-community-8.0.27.1.msi
+
+MariaDB
+https://mariadb.org/download/?t=mariadb&p=mariadb&r=10.6.5&os=windows&cpu=x86_64&pkg=msi&m=archive
+
+WAMPServer
+https://sourceforge.net/projects/wampserver/files/latest/download
