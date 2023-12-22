@@ -12,9 +12,9 @@ exemplo:
 ## Instruções de Uso
 1. baixe o arquivo zip pelo botão verde na pagina inicial.
 
-## OU ##
+OU 
 
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/repositorio-trabalhos-escolares.git
+git clone https://github.com/rennyson10oa/trabs-in-now.git
